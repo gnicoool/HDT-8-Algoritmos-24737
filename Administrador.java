@@ -1,3 +1,7 @@
+/*
+ * Jackelyn Nicolle Giròn Villacinda
+ * Carne 24737
+ */
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

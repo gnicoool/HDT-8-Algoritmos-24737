@@ -1,4 +1,7 @@
-
+/*
+ * Jackelyn Nicolle Giròn Villacinda
+ * Carne 24737
+ */
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.Scanner;

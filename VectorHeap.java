@@ -1,3 +1,7 @@
+/*
+ * Jackelyn Nicolle Giròn Villacinda
+ * Carne 24737
+ */
 import java.util.Vector;
 
 public class VectorHeap<E extends Comparable<E>> implements MyPriorityQueue<E> {
