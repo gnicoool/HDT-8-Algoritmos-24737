@@ -59,10 +59,9 @@ public class Paciente implements Comparable<Paciente> {
      */
     @Override
     public int compareTo(Paciente urgencia) {
-        int priority = urgencia.getCodigo();
-        if (priority < this.codigo) {
+        if (this.codigo< urgencia.getCodigo()) {
             return -1;
-        } else if (priority > this.codigo) {
+        } else if (this.codigo > urgencia.getCodigo()) {
             return 1;
         } else {
             return this.fechaIngreso.compareTo(urgencia.getFechaIngreso());   
